@@ -20,5 +20,8 @@ This directory contains a collection of useful PDFs, tools, and other reference 
 - [Regex101](https://regex101.com/) — Build, test, and debug regex
 - [DevDocs](https://devdocs.io/) — Fast, offline-friendly developer documentation
 - [Can I use](https://caniuse.com/) — Browser support tables for modern web technologies
+- [Jakes Resume](https://www.overleaf.com/latex/templates/jakes-resume/syzfjbzwjncs) - A simple, straight-forward resume template
+
+
 
 ---
