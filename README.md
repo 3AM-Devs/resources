@@ -10,6 +10,6 @@ This directory contains a collection of useful PDFs, tools, and other reference 
 
 <!-- Add External Resouces like ebooks [licenced copy ready to distribute only] -->
 
-## 🔗 Important Resource Links
+## 📌 Important Resource Links
 
 - [Regex101](https://regex101.com/) regex101: build, test, and debug regex
