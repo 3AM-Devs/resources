@@ -21,11 +21,11 @@ This directory contains a collection of useful PDFs, tools, and other reference 
 - [DevDocs](https://devdocs.io/) — Fast, offline-friendly developer documentation
 - [Can I use](https://caniuse.com/) — Browser support tables for modern web technologies
 - [Jakes Resume](https://www.overleaf.com/latex/templates/jakes-resume/syzfjbzwjncs) - A simple, straight-forward resume template
-- [Codedex](https://www.codedex.io/) - The most fun and beginner-friendly way to learn to code.
-- [Coddy](https://coddy.tech/) - The free, fun, and effective way to learn to code!
+- [Codedex](https://www.codedex.io/) - The most fun and beginner-friendly way to learn to code
+- [Coddy](https://coddy.tech/) - The free, fun, and effective way to learn to code
 - [CodeCrafters](https://codecrafters.io/) - Advanced code challenges for senior engineers
-- [Brilliant](https://brilliant.org/) - Interactive problem solving that’s effective and fun.
-- [TheOdinProject](https://www.theodinproject.com/) - High quality coding education maintained by an open source community.
+- [Brilliant](https://brilliant.org/) - Interactive problem solving that’s effective and fun
+- [TheOdinProject](https://www.theodinproject.com/) - High quality coding education maintained by an open source community
 
 
 
