@@ -26,6 +26,8 @@ This directory contains a collection of useful PDFs, tools, and other reference 
 - [CodeCrafters](https://codecrafters.io/) - Advanced code challenges for senior engineers
 - [Brilliant](https://brilliant.org/) - Interactive problem solving that’s effective and fun
 - [TheOdinProject](https://www.theodinproject.com/) - High quality coding education maintained by an open source community
+- [Hacksplaining](https://www.hacksplaining.com/lessons) - Security Training for Web Developers
+- [UI Colors](https://uicolors.app/) - Create and customize beautiful Tailwind CSS color palettes
 
 
 
