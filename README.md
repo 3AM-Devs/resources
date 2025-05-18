@@ -5,6 +5,7 @@ This directory contains a collection of useful PDFs, tools, and other reference 
 ## 📄 PDF Documents
 
 - [Ideas.pdf](https://github.com/3AM-Devs/resources/blob/main/docs/ideas/ideas-0525.pdf) — Top 100 Web-Based Solution Ideas Across Sectors
+- [Influential Algorithms](https://github.com/3AM-Devs/resources/blob/main/docs/ideas/Influential%20Papers%20and%20Algorithms%20(Beginner-Implementable).pdf) - Influential Papers and Algorithms (Beginner-Implementable)
 
 ## 📚 External Resources
 
