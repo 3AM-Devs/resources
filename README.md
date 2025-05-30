@@ -29,6 +29,7 @@ This directory contains a collection of useful PDFs, tools, and other reference 
 - [TheOdinProject](https://www.theodinproject.com/) - High quality coding education maintained by an open source community
 - [Hacksplaining](https://www.hacksplaining.com/lessons) - Security Training for Web Developers
 - [UI Colors](https://uicolors.app/) - Create and customize beautiful Tailwind CSS color palettes
+- [Eraser](https://app.eraser.io/) - Create System Design Charts
 
 
 
