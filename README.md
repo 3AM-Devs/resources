@@ -34,6 +34,6 @@ This directory contains a collection of useful PDFs, tools, and other reference 
 
 ## Courses
 
-- [Class Centrol](https://www.classcentral.com/) - Courses Aggregator
+- [Class Central](https://www.classcentral.com/) - Courses Aggregator
 
 ---
