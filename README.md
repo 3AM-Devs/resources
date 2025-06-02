@@ -32,6 +32,8 @@ This directory contains a collection of useful PDFs, tools, and other reference 
 - [Eraser](https://app.eraser.io/) - Create System Design Charts
 
 
+## Courses
 
+- [Class Central](https://www.classcentral.com/) - Courses Aggregator
 
 ---
