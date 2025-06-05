@@ -15,7 +15,7 @@ Each commit message should be structured as follows:
 
 ```
 <type>: <short summary>
-````
+```
 
 - Use the imperative mood (e.g., "add", not "added" or "adds").
 - Keep the summary concise and relevant.
