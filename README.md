@@ -28,8 +28,13 @@ This directory contains a collection of useful PDFs, tools, and other reference 
 - [Brilliant](https://brilliant.org/) - Interactive problem solving that’s effective and fun
 - [TheOdinProject](https://www.theodinproject.com/) - High quality coding education maintained by an open source community
 - [Hacksplaining](https://www.hacksplaining.com/lessons) - Security Training for Web Developers
-- [UI Colors](https://uicolors.app/) - Create and customize beautiful Tailwind CSS color palettes
 - [Eraser](https://app.eraser.io/) - Create System Design Charts
+
+## Frontend
+
+  - [Color Palette Generator](https://coolors.co/generate) — Generate color scheme for your UI
+  - [Contrast Checker](https://coolors.co/contrast-checker/) — Checks the contrast between foreground and background
+  - [UI Colors](https://uicolors.app/) — Create and customize beautiful Tailwind CSS color palettes
 
 
 ## Courses
